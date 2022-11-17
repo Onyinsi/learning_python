@@ -8,3 +8,9 @@ d. degrees to fakrenheit  """)
 
 if prompt_ == 'a': 
     print("how many pounds ?")
+
+
+
+print("You got " + str(score/5*100) + "%.")
+print("You got " + str(score) + " out of 5 questions correct")
+quit()

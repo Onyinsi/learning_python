@@ -45,6 +45,6 @@ if Quiz.lower() == "c":
 else:
     print("incorect")
 
-print("You got " + str(score/5*100) + "%.")
-print("You got " + str(score) + " out of 5 questions correct")
+print(f"You got {str(score/5*100)} %.")
+print(f"You got {str(score)} out of 5 questions correct")
 quit()
