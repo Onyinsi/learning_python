@@ -1,7 +1,7 @@
 my_cars = ("Range rover", "BMW", "Mercedes Benz ")
-print(my_cars)
-print(my_cars[0])
+1, 2, 3 = my_cars
+print(2)
 
-print(len(my_cars))
-
-my_cars[1] = ("Ford")
+#print(my_cars)
+#print(my_cars[0])
+#print(len(my_cars))
